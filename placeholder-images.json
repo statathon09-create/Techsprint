@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user1",
+      "description": "User avatar for Jane Doe",
+      "imageUrl": "https://images.unsplash.com/photo-1610655507808-a59293f4e332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2Nzc3MTAzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user2",
+      "description": "User avatar for Dr. John Smith",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njc3ODczNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "user3",
+      "description": "User avatar for Maria Garcia",
+      "imageUrl": "https://images.unsplash.com/photo-1734622536791-f8d4e7f9453c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHBvcnRyYWl0JTIwc21pbGluZ3xlbnwwfHx8fDE3Njc3OTgxOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait smiling"
+    },
+    {
+      "id": "user4",
+      "description": "User avatar for Chen Wang",
+      "imageUrl": "https://images.unsplash.com/photo-1621873982312-1f83e89a2f21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8fDE3Njc3NDYxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "user5",
+      "description": "Generic user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1706002575635-7f4431cf2ce2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBzaWxob3VldHRlfGVufDB8fHx8MTc2Nzc1MzY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person silhouette"
+    },
+    {
+      "id": "map",
+      "description": "Map placeholder for location tracking",
+      "imageUrl": "https://images.unsplash.com/photo-1476385822777-70eabacbd41f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2NzczNzM3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "hero",
+      "description": "Hero background image for the landing page",
+      "imageUrl": "https://images.unsplash.com/photo-1519931039949-d7c3c5a6d05f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaXR5JTIwZGF3bnxlbnwwfHx8fDE3NjgxNTc1ODV8MA&ixlib=rb-4.1.0&q=80&w=1920",
+      "imageHint": "city dawn"
+    }
+  ]
+}

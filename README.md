@@ -1,4 +1,12 @@
-# Techsprint
-Response connect
+\# Firebase Studio
 
-# Name : P S GANESH RAM
+
+
+This is a NextJS starter in Firebase Studio.
+
+
+
+To get started, take a look at src/app/page.tsx.
+
+
+
